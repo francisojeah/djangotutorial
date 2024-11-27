@@ -1,0 +1,41 @@
+# Python bytecode and other Python artifacts
+*.py[cod]
+__pycache__/
+*.so
+
+# Django-specific files
+db.sqlite3
+*.log
+.env
+
+# Django migrations
+*/migrations/* 
+!*/migrations/__init__.py
+
+# Media and static files
+/media/
+/staticfiles/
+/static/
+
+# Environment files and virtual environments
+.env
+venv/
+env/
+*.env
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.swn
+*.swo
+*.~lock.*
+
+# MacOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
