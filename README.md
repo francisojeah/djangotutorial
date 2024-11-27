@@ -1,12 +1,3 @@
-### GitHub Repository Description:
-
-**Description:**  
-This repository contains the code and implementation of the official [Django Tutorial](https://docs.djangoproject.com/en/stable/intro/tutorial01/), showcasing step-by-step guidance to build a Django web application. It serves as a reference for learning Django's fundamental concepts, including models, views, templates, and forms.
-
----
-
-### README.md:
-
 # Django Tutorial Project
 
 This repository contains the implementation of the official [Django Tutorial](https://docs.djangoproject.com/en/stable/intro/tutorial01/). It is designed to help beginners and intermediate developers learn the fundamentals of Django, a high-level Python web framework.
